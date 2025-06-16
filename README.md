@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on web development projects.<br>👯 I’m looking to collaborate on frontend/backend development, AI integrations, and scalable web apps.<br>🤝 I’m looking for help with optimizing web performance, UX/UI design, and API integrations<br>🌱 I’m currently learning advanced JavaScript frameworks, backend optimizations, and cloud deployment<br>💬 Ask me about web development, AI integration, and startup tech stacks<br>⚡ Fun fact I have the Rajya Puraskar in Scouts and Guides!
+🚀 Hi! I'm currently working on a bunch of awesome web development stuff.
+🤝 I'd love to collaborate with others on frontend and backend development, specifically with AI integrations and scalable web apps.
+⚙️ I have some specific challenges I need help with for improving web performance, 🎨 ux/ui design, and 🔌 api integrations.
+📚 I've been studying advanced javascript frameworks, 🔧 backend optimizations, and ☁️ cloud deployment.
+💬 If you have any questions about web dev, 🤖 ai, or 🏗️ startup tech stacks, let me know!
+🏅 Oh, and by the way; fun fact, I received the Rajya Puraskar in Scouts and Guides!
 
 
 ## 🌐 Socials:

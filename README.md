@@ -20,3 +20,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![Generate Snake](https://github.com/Shriii19/Shriii19/actions/workflows/MAIN.yml/badge.svg)

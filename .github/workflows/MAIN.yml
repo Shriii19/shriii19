@@ -1,0 +1,48 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Run every 6 hours
+  workflow_dispatch: # Allow manual triggering
+
+# Set permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v4
+
+      # Generate the snake
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Shriii19
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Configure Git user
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Commit and push changes to the output branch
+      - name: Commit changes
+        run: |
+          git add dist/*
+          git commit -m "Update contribution snake" || echo "No changes to commit"
+          git push origin output || git push --set-upstream origin output
+
+      # Deploy to GitHub Pages (optional, if you want to host the snake)
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

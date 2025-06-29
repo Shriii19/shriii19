@@ -68,10 +68,4 @@ Hi there! I'm a passionate **Web Developer** building scalable, user-friendly we
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 🔥 Visitor Count  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shriii19&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</p>
-
 <!-- Proudly created with love by Shrinivas -->

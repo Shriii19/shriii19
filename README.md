@@ -62,7 +62,7 @@ Hi there! I'm a passionate **Web Developer** building scalable, user-friendly we
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriii19&theme=tokyonight&layout=compact&hide_border=false" width="47%" />
 </p>
 
----
+----
 
 ### ✍️ Dev Quote
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

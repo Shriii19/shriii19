@@ -68,4 +68,7 @@ Hi there! I'm a passionate **Web Developer** building scalable, user-friendly we
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+![snake gif](https://github.com/Shriii19/shriii19/blob/output/github-snake-dark.svg)
 <!-- Proudly created with love by Shrinivas -->
+
+

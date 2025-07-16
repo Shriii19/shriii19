@@ -51,7 +51,7 @@ Hi there! I'm a passionate **Web Developer** building scalable, user-friendly we
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
------
+---
 
 ### 📈 GitHub Stats
 <p align="center">

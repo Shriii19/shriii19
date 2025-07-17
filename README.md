@@ -1,74 +1,106 @@
-<h1 align="center">Hey 👋, I'm Shrinivas Mudabe</h1>
-<h3 align="center">🚀 Web Developer | 🤖 AI Enthusiast | 📦 Startup Tech Explorer</h3>
+<h1 align="center">Hey 👋 I'm Shrinivas Mudabe</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI Explorer | 🚀 Tech & Startup Enthusiast</h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=61DAFB&center=true&vCenter=true&lines=Turning+ideas+into+code+%F0%9F%96%A5%EF%B8%8F;Building+modern+full-stack+web+apps;Exploring+AI+and+Tech+Innovation" />
+</p>
 
 ---
-Hi there! I'm a passionate **Web Developer** building scalable, user-friendly web applications with a focus on **AI integrations**, **frontend/backend development**, and **cloud deployment**. I love tackling challenges in **web performance**, **UX/UI design**, and **API integrations**. Always eager to collaborate on innovative projects and explore the latest in **JavaScript frameworks**, **backend optimizations**, and **startup tech stacks**. 
 
+### 🚀 About Me
 
-### 💫 About Me
+Hey there! I'm a  Web Developer building scalable, user-friendly web applications with a focus on AI integrations, frontend/backend development, and cloud deployment. I love tackling challenges in web performance, UX/UI design, and API integrations. Always eager to collaborate on innovative projects and explore the latest in JavaScript frameworks, backend optimizations, and startup tech stacks.
+
+<br>
+
 - 💻 Currently working on **modern web development** projects and full-stack scalable applications.
 - 🤝 Open to **collaboration** in frontend/backend dev, **AI integration**, and **startup-scale platforms**.
 - ⚙️ Facing & solving real-world challenges in **web performance**, **UX/UI**.
 - 📚 Learning advanced **JavaScript frameworks**, backend performance techniques, and **cloud deployment**.
 - 🏅 Fun Fact: I received the **Rajya Puraskar** in Scouts and Guides!
 - 💬 Ask me anything about **Web Dev**, **AI**, or **Tech Stacks**.
+- 🏅 Rajya Puraskar awardee in Scouts & Guides!
 
 ---
-
 ### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://discord.com/users/1264495279009435700" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shrinivas-mudabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mudabeshrinivas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mudabeshrinivas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shrinivas-mudabe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shreee1994"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/1264495279009435700"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
+### 🛠️ Tech Toolbox
 
-### 💻 Tech Stack
+#### 🧩 Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35"/>
+</p>
 
-#### 🚀 Languages & Frameworks
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+#### ⚙️ Frameworks & Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="35"/>
+</p>
 
-#### 🧠 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+#### 🛢️ Databases  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35"/>
+</p>
 
-#### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+#### ☁️ Platforms & CMS  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="35"/>
+</p>
 
-#### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+#### 📊 AI & Data  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35"/>
+</p>
 
-#### 📊 Data & AI Tools
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+#### 🎨 Design  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="35"/>
+</p>
+
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Insights
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shriii19&theme=tokyonight&show_icons=true&hide_border=false" width="47%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shriii19&theme=tokyonight&hide_border=false" width="47%"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shriii19&theme=tokyonight&hide_border=false" width="50%"  />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriii19&theme=tokyonight&layout=compact&hide_border=false" width="47%" />
-</p>
+</p> -->
+
 
 ---
 
-### ✍️ Dev Quote
+### 💬 Dev Quote
+
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 ![snake gif](https://github.com/Shriii19/shriii19/blob/output/github-snake-dark.svg)
-<!-- Proudly created with love by Shrinivas -->
-
-
+<!-- Designed for impact, powered by passion — Shrinivas Mudabe -->

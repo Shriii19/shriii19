@@ -47,5 +47,5 @@ Hey there! I'm a  Web Developer building scalable, user-friendly web application
 
 ---
 
-![snake gif](https://github.com/Shriii19/shriii19/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Shriii19/Shriii19/blob/output/github-snake-dark.svg)
 <!-- Designed for impact, powered by passion — Shrinivas Mudabe -->

@@ -48,9 +48,9 @@ Hey there! I'm a  Web Developer building scalable, user-friendly web application
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shriii19/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shriii19/blob/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://github.com/Shriii19/blob/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shriii19/shriii19/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shriii19/shriii19/blob/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://github.com/Shriii19/shriii19/blob/output/github-snake.svg">
 </picture>
 
 <!-- Designed for impact, powered by passion — Shrinivas Mudabe -->

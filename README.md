@@ -20,7 +20,6 @@ Hey there! I'm a  Web Developer building scalable, user-friendly web application
 - 📚 Learning advanced **JavaScript frameworks**, backend performance techniques, and **cloud deployment**.
 - 🏅 Fun Fact: I received the **Rajya Puraskar** in Scouts and Guides!
 - 💬 Ask me anything about **Web Dev**, **AI**, or **Tech Stacks**.
-- 🏅 Rajya Puraskar awardee in Scouts & Guides!
 
 ---
 ### 🌐 Connect With Me

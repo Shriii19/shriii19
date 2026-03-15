@@ -25,10 +25,21 @@ Hey there! I'm a  Web Developer building scalable, user-friendly web application
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:mudabeshrinivas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shrinivas-mudabe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shreee1994"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/1264495279009435700"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="mailto:mudabeshrinivas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shrinivas-mudabe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shreee1994">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1264495279009435700">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/31121662/shriii">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
+  </a>
 </p>
 
 ---

@@ -40,12 +40,15 @@ Hey there! I'm a  Web Developer building scalable, user-friendly web application
   <a href="https://stackoverflow.com/users/31121662/shriii">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://shree-hdw1739.slack.com/team/U0BSQGGNPB3">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-</a>
+   <a href="https://medium.com/@shreemp194">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/>
+  </a>
   <a href="https://gravatar.com/mysteriously043ea476a5">
     <img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white"/>
   </a>
+   <a href="https://shree-hdw1739.slack.com/team/U0BSQGGNPB3">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+</a>
 </p>
 
 ---

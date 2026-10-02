@@ -3,14 +3,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=61DAFB&center=true&vCenter=true&lines=Turning+ideas+into+code+%F0%9F%96%A5%EF%B8%8F;Building+modern+full-stack+web+apps;Exploring+AI+and+Tech+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=61DAFB&center=true&vCenter=true&lines=Turning+ideas+into+code+%F0%9F%96%A5%EF%B8%8F;Building+modern+full-stack+web+apps;Exploring+AI+and+Tech+[...]
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Hey there! I'm a  Web Developer building scalable, user-friendly web applications with a focus on AI integrations, frontend/backend development, and cloud deployment. I love tackling challenges in web performance, UX/UI design, and API integrations. Always eager to collaborate on innovative projects and explore the latest in JavaScript frameworks, backend optimizations, and startup tech stacks.
+Hey there! I'm a  Web Developer building scalable, user-friendly web applications with a focus on AI integrations, frontend/backend development, and cloud deployment. I love tackling challenges in web[...]
 
 <br>
 
@@ -40,16 +40,19 @@ Hey there! I'm a  Web Developer building scalable, user-friendly web application
   <a href="https://stackoverflow.com/users/31121662/shriii">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
   </a>
+  <a href="https://gravatar.com/mysteriously043ea476a5">
+    <img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white"/>
+  </a>
   <a href="https://shree-hdw1739.slack.com/team/U0BSQGGNPB3">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  </a>
 </p>
 
 ---
 ### 🛠️ Tech Toolbox
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> <i[...]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width[...]
 
 
 ---
